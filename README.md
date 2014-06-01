@@ -1,6 +1,3 @@
-rltd-site
-=========
-
 # Read Like the Dickens Charity Site
 [readlikethedickens.org](http://readlikethedickens.org/)
 
