@@ -1,0 +1,1 @@
+[05-Apr-2011 14:09:51] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'head.php' (include_path='.:/usr/local/php52/pear') in /home/austr790/public_html/galleria/themes/miniml/gallery.php on line 2
